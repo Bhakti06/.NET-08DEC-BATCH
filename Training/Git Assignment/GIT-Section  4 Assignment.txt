@@ -1,0 +1,14 @@
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git remote add origin https://github.com/Bhakti06/fresherbatch-dec22.git
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git push origin master
+Enumerating objects: 98, done.
+Counting objects: 100% (98/98), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (80/80), done.
+Writing objects: 100% (98/98), 27.29 KiB | 1.44 MiB/s, done.
+Total 98 (delta 32), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (32/32), done.
+To https://github.com/Bhakti06/fresherbatch-dec22.git
+ * [new branch]      master -> master

@@ -1,0 +1,28 @@
+C:\Users\BSUDHIRT\source\repos\assignment3\bin\Debug\netcoreapp3.1\assignment3.exe
+C:\Users\BSUDHIRT\source\repos\assignment3\bin\Debug\netcoreapp3.1\assignment3.deps.json
+C:\Users\BSUDHIRT\source\repos\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.json
+C:\Users\BSUDHIRT\source\repos\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.dev.json
+C:\Users\BSUDHIRT\source\repos\assignment3\bin\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\BSUDHIRT\source\repos\assignment3\bin\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\BSUDHIRT\source\repos\assignment3\obj\Debug\netcoreapp3.1\assignment3.csproj.AssemblyReference.cache
+C:\Users\BSUDHIRT\source\repos\assignment3\obj\Debug\netcoreapp3.1\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSUDHIRT\source\repos\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfoInputs.cache
+C:\Users\BSUDHIRT\source\repos\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfo.cs
+C:\Users\BSUDHIRT\source\repos\assignment3\obj\Debug\netcoreapp3.1\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\BSUDHIRT\source\repos\assignment3\obj\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\BSUDHIRT\source\repos\assignment3\obj\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\BSUDHIRT\source\repos\assignment3\obj\Debug\netcoreapp3.1\assignment3.genruntimeconfig.cache
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\bin\Debug\netcoreapp3.1\assignment3.exe
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\bin\Debug\netcoreapp3.1\assignment3.deps.json
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.json
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.dev.json
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\bin\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\bin\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\obj\Debug\netcoreapp3.1\assignment3.csproj.AssemblyReference.cache
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\obj\Debug\netcoreapp3.1\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfoInputs.cache
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfo.cs
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\obj\Debug\netcoreapp3.1\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\obj\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\obj\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\BSUDHIRT\CsharpBasic\Assignment 3\assignment3\obj\Debug\netcoreapp3.1\assignment3.genruntimeconfig.cache

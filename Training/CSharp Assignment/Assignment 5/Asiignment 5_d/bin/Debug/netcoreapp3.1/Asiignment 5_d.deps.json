@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asiignment 5_d/1.0.0": {
+        "runtime": {
+          "Asiignment 5_d.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asiignment 5_d/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\BSUDHIRT\source\repos\Assignment3c\obj\Debug\netcoreapp3.1\Assignment3c.csproj.AssemblyReference.cache
+C:\Users\BSUDHIRT\source\repos\Assignment3c\obj\Debug\netcoreapp3.1\Assignment3c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSUDHIRT\source\repos\Assignment3c\obj\Debug\netcoreapp3.1\Assignment3c.AssemblyInfoInputs.cache
+C:\Users\BSUDHIRT\source\repos\Assignment3c\obj\Debug\netcoreapp3.1\Assignment3c.AssemblyInfo.cs
+C:\Users\BSUDHIRT\source\repos\Assignment3c\obj\Debug\netcoreapp3.1\Assignment3c.csproj.CoreCompileInputs.cache
+C:\Users\BSUDHIRT\source\repos\Assignment3c\bin\Debug\netcoreapp3.1\Assignment3c.exe
+C:\Users\BSUDHIRT\source\repos\Assignment3c\bin\Debug\netcoreapp3.1\Assignment3c.deps.json
+C:\Users\BSUDHIRT\source\repos\Assignment3c\bin\Debug\netcoreapp3.1\Assignment3c.runtimeconfig.json
+C:\Users\BSUDHIRT\source\repos\Assignment3c\bin\Debug\netcoreapp3.1\Assignment3c.runtimeconfig.dev.json
+C:\Users\BSUDHIRT\source\repos\Assignment3c\bin\Debug\netcoreapp3.1\Assignment3c.dll
+C:\Users\BSUDHIRT\source\repos\Assignment3c\bin\Debug\netcoreapp3.1\Assignment3c.pdb
+C:\Users\BSUDHIRT\source\repos\Assignment3c\obj\Debug\netcoreapp3.1\Assignment3c.dll
+C:\Users\BSUDHIRT\source\repos\Assignment3c\obj\Debug\netcoreapp3.1\Assignment3c.pdb
+C:\Users\BSUDHIRT\source\repos\Assignment3c\obj\Debug\netcoreapp3.1\Assignment3c.genruntimeconfig.cache

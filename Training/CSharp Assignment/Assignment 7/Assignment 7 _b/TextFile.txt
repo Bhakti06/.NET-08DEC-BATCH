@@ -1,0 +1,3 @@
+Customer Name:shruti
+Account Number:123
+Balance:30000

@@ -1,0 +1,192 @@
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch css-assignment
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git checkout css-assignment
+Switched to branch 'css-assignment'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git add .
+git
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git status
+On branch css-assignment
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   .vs/slnx.sqlite
+        new file:   StyleSheet1.css
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git commit -m "commit6"
+[css-assignment 387e352] commit6
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+)
+ create mode 100644 StyleSheet1.css
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git status
+On branch css-assignment
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.txt
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git commit -m "commit7"
+[css-assignment 004e268] commit7
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git checkout master
+Switched to branch 'master'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.txt
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git commit -m "commit8"
+[master 73ecb7b] commit8
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git checkout css-assignment
+Switched to branch 'css-assignment'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git status
+On branch css-assignment
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   StyleSheet1.css
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git commit -m "commit9"
+[css-assignment 513c74c] commit9
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (css-assignment)
+$ git checkout master
+Switched to branch 'master'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git merge css-assignment
+Auto-merging README.txt
+CONFLICT (content): Merge conflict in README.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master|MERGING)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master|MERGING)
+$ git status
+On branch master
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+        modified:   .vs/slnx.sqlite
+        modified:   README.txt
+        new file:   StyleSheet1.css
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master|MERGING)
+$ git commit -m "commit10"
+[master 7cab2f5] commit10
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git merge css-assignment
+Already up to date.
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branh -a
+git: 'branh' is not a git command. See 'git --help'.
+
+The most similar command is
+        branch
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch -a
+  css-assignment
+* master
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch --delete css-assignment
+Deleted branch css-assignment (was 513c74c).
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch -a
+* master

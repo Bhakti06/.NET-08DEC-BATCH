@@ -1,0 +1,14 @@
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\bin\Debug\netcoreapp3.1\CsharpBasic.exe
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\bin\Debug\netcoreapp3.1\CsharpBasic.deps.json
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\bin\Debug\netcoreapp3.1\CsharpBasic.runtimeconfig.json
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\bin\Debug\netcoreapp3.1\CsharpBasic.runtimeconfig.dev.json
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\bin\Debug\netcoreapp3.1\CsharpBasic.dll
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\bin\Debug\netcoreapp3.1\CsharpBasic.pdb
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\obj\Debug\netcoreapp3.1\CsharpBasic.csproj.AssemblyReference.cache
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\obj\Debug\netcoreapp3.1\CsharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\obj\Debug\netcoreapp3.1\CsharpBasic.AssemblyInfoInputs.cache
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\obj\Debug\netcoreapp3.1\CsharpBasic.AssemblyInfo.cs
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\obj\Debug\netcoreapp3.1\CsharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\obj\Debug\netcoreapp3.1\CsharpBasic.dll
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\obj\Debug\netcoreapp3.1\CsharpBasic.pdb
+C:\Users\BSUDHIRT\source\repos\CsharpBasic\CsharpBasic\obj\Debug\netcoreapp3.1\CsharpBasic.genruntimeconfig.cache

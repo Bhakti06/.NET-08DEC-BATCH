@@ -1,0 +1,14 @@
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\bin\Debug\netcoreapp3.1\Assignment 8_a.exe
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\bin\Debug\netcoreapp3.1\Assignment 8_a.deps.json
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\bin\Debug\netcoreapp3.1\Assignment 8_a.runtimeconfig.json
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\bin\Debug\netcoreapp3.1\Assignment 8_a.runtimeconfig.dev.json
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\bin\Debug\netcoreapp3.1\Assignment 8_a.dll
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\bin\Debug\netcoreapp3.1\Assignment 8_a.pdb
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\obj\Debug\netcoreapp3.1\Assignment 8_a.csproj.AssemblyReference.cache
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\obj\Debug\netcoreapp3.1\Assignment 8_a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\obj\Debug\netcoreapp3.1\Assignment 8_a.AssemblyInfoInputs.cache
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\obj\Debug\netcoreapp3.1\Assignment 8_a.AssemblyInfo.cs
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\obj\Debug\netcoreapp3.1\Assignment 8_a.csproj.CoreCompileInputs.cache
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\obj\Debug\netcoreapp3.1\Assignment 8_a.dll
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\obj\Debug\netcoreapp3.1\Assignment 8_a.pdb
+C:\Users\BSUDHIRT\source\repos\Assignment 8_a\obj\Debug\netcoreapp3.1\Assignment 8_a.genruntimeconfig.cache

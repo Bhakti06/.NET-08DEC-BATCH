@@ -1,0 +1,210 @@
+
+bsudhirt@LIN80024365 MINGW64 ~
+$ mkdir Assignments
+
+bsudhirt@LIN80024365 MINGW64 ~
+$ cd Assignments
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments
+$ touch README.txt
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments
+$ git add .
+fatal: not a git repository (or any of the parent directories): .git
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments
+$ git init
+Initialized empty Git repository in C:/Users/BSUDHIRT/Assignments/.git/
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.txt
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git commit -m "initial commit"
+[master (root-commit) fe67ebe] initial commit
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.txt
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ ^C
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch html-assignment
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git checkout html-assignment
+Switched to branch 'html-assignment'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git status
+On branch html-assignment
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   HTMLPage1.html
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git commit -m "commit1"
+[html-assignment b6ab6dc] commit1
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+)
+ create mode 100644 HTMLPage1.html
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git status
+On branch html-assignment
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .vs/Assignments/config/applicationhost.config
+        new file:   .vs/slnx.sqlite
+        modified:   HTMLPage1.html
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git commit -m "commit2"
+[html-assignment 467d0c8] commit2
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 1026 insertions(+)
+ create mode 100644 .vs/Assignments/config/applicationhost.config
+ create mode 100644 .vs/slnx.sqlite
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git checkout master
+Switched to branch 'master'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .vs/slnx.sqlite
+        modified:   README.txt
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git commit -m "commit3"
+[master 935e354] commit3
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+)
+ create mode 100644 .vs/slnx.sqlite
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git checkout html-assignment
+Switched to branch 'html-assignment'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git status
+On branch html-assignment
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   HTMLPage1.html
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git commit -m "commit4"
+[html-assignment 48dd396] commit4
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (html-assignment)
+$ git checkout master
+Switched to branch 'master'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git merge html-assignment
+Already up to date.
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ ls
+HTMLPage1.html  README.txt
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch --delete html-assignment
+Deleted branch html-assignment (was 48dd396).
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch -a
+* master
+
+
+                     

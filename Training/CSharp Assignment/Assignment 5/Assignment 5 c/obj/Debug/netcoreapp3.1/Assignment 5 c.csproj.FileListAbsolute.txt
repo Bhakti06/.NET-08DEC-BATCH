@@ -1,0 +1,14 @@
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\bin\Debug\netcoreapp3.1\Assignment 5 c.exe
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\bin\Debug\netcoreapp3.1\Assignment 5 c.deps.json
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\bin\Debug\netcoreapp3.1\Assignment 5 c.runtimeconfig.json
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\bin\Debug\netcoreapp3.1\Assignment 5 c.runtimeconfig.dev.json
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\bin\Debug\netcoreapp3.1\Assignment 5 c.dll
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\bin\Debug\netcoreapp3.1\Assignment 5 c.pdb
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\obj\Debug\netcoreapp3.1\Assignment 5 c.csproj.AssemblyReference.cache
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\obj\Debug\netcoreapp3.1\Assignment 5 c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\obj\Debug\netcoreapp3.1\Assignment 5 c.AssemblyInfoInputs.cache
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\obj\Debug\netcoreapp3.1\Assignment 5 c.AssemblyInfo.cs
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\obj\Debug\netcoreapp3.1\Assignment 5 c.csproj.CoreCompileInputs.cache
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\obj\Debug\netcoreapp3.1\Assignment 5 c.dll
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\obj\Debug\netcoreapp3.1\Assignment 5 c.pdb
+C:\Users\BSUDHIRT\source\repos\Assignment 5 c\obj\Debug\netcoreapp3.1\Assignment 5 c.genruntimeconfig.cache

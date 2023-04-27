@@ -1,0 +1,14 @@
+C:\Users\BSUDHIRT\source\repos\assignment3b\bin\Debug\netcoreapp3.1\assignment3b.exe
+C:\Users\BSUDHIRT\source\repos\assignment3b\bin\Debug\netcoreapp3.1\assignment3b.deps.json
+C:\Users\BSUDHIRT\source\repos\assignment3b\bin\Debug\netcoreapp3.1\assignment3b.runtimeconfig.json
+C:\Users\BSUDHIRT\source\repos\assignment3b\bin\Debug\netcoreapp3.1\assignment3b.runtimeconfig.dev.json
+C:\Users\BSUDHIRT\source\repos\assignment3b\bin\Debug\netcoreapp3.1\assignment3b.dll
+C:\Users\BSUDHIRT\source\repos\assignment3b\bin\Debug\netcoreapp3.1\assignment3b.pdb
+C:\Users\BSUDHIRT\source\repos\assignment3b\obj\Debug\netcoreapp3.1\assignment3b.csproj.AssemblyReference.cache
+C:\Users\BSUDHIRT\source\repos\assignment3b\obj\Debug\netcoreapp3.1\assignment3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSUDHIRT\source\repos\assignment3b\obj\Debug\netcoreapp3.1\assignment3b.AssemblyInfoInputs.cache
+C:\Users\BSUDHIRT\source\repos\assignment3b\obj\Debug\netcoreapp3.1\assignment3b.AssemblyInfo.cs
+C:\Users\BSUDHIRT\source\repos\assignment3b\obj\Debug\netcoreapp3.1\assignment3b.csproj.CoreCompileInputs.cache
+C:\Users\BSUDHIRT\source\repos\assignment3b\obj\Debug\netcoreapp3.1\assignment3b.dll
+C:\Users\BSUDHIRT\source\repos\assignment3b\obj\Debug\netcoreapp3.1\assignment3b.pdb
+C:\Users\BSUDHIRT\source\repos\assignment3b\obj\Debug\netcoreapp3.1\assignment3b.genruntimeconfig.cache

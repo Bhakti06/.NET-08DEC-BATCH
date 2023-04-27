@@ -1,0 +1,14 @@
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\obj\Debug\netcoreapp3.1\Asiignment5_6.csproj.AssemblyReference.cache
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\obj\Debug\netcoreapp3.1\Asiignment5_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\obj\Debug\netcoreapp3.1\Asiignment5_6.AssemblyInfoInputs.cache
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\obj\Debug\netcoreapp3.1\Asiignment5_6.AssemblyInfo.cs
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\obj\Debug\netcoreapp3.1\Asiignment5_6.csproj.CoreCompileInputs.cache
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\bin\Debug\netcoreapp3.1\Asiignment5_6.exe
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\bin\Debug\netcoreapp3.1\Asiignment5_6.deps.json
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\bin\Debug\netcoreapp3.1\Asiignment5_6.runtimeconfig.json
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\bin\Debug\netcoreapp3.1\Asiignment5_6.runtimeconfig.dev.json
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\bin\Debug\netcoreapp3.1\Asiignment5_6.dll
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\bin\Debug\netcoreapp3.1\Asiignment5_6.pdb
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\obj\Debug\netcoreapp3.1\Asiignment5_6.dll
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\obj\Debug\netcoreapp3.1\Asiignment5_6.pdb
+C:\Users\BSUDHIRT\source\repos\Asiignment5_6\obj\Debug\netcoreapp3.1\Asiignment5_6.genruntimeconfig.cache

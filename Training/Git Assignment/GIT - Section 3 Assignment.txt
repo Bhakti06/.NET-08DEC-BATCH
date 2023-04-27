@@ -1,0 +1,237 @@
+
+bsudhirt@LIN80024365 MINGW64 ~
+$ cd Assignments
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git status
+On branch js-assignments
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   .vs/slnx.sqlite
+        new file:   Script1.js
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .vs/slnx.sqlite
+        deleted:    Script1.js
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git commit -m "initial commit"
+[js-assignments 0440ebc] initial commit
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git status
+On branch js-assignments
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   .vs/Assignments/v16/.suo
+        modified:   .vs/slnx.sqlite
+        new file:   Script2.js
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git commit -m "commit1"
+[js-assignments 52f1d58] commit1
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 1 insertion(+)
+ create mode 100644 Script2.js
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git status
+On branch js-assignments
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.txt
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git commit -m "commit2"
+[js-assignments b7ea242] commit2
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git branch master
+fatal: a branch named 'master' already exists
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git checkout master
+Switched to branch 'master'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   .vs/slnx.sqlite
+        modified:   README.txt
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git commit -m "commit3"
+[master 3bc28f9] commit3
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 deletion(-)
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git checkout js-assignments
+Switched to branch 'js-assignments'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git status
+On branch js-assignments
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   .vs/slnx.sqlite
+        modified:   Script2.js
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (js-assignments)
+$ git commit -m "commit4"
+[js-assignments 7639a81] commit4
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+)
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments
+$ git checkout master
+Switched to branch 'master'
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments
+$ git merge js-assignments
+warning: Cannot merge binary files: .vs/slnx.sqlite (HEAD vs. js-assignments)
+Auto-merging .vs/slnx.sqlite
+CONFLICT (content): Merge conflict in .vs/slnx.sqlite
+Auto-merging README.txt
+CONFLICT (content): Merge conflict in README.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master|MERGING)
+$ git add .
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master|MERGING)
+$ git status
+On branch master
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+        modified:   .vs/Assignments/v16/.suo
+        modified:   .vs/slnx.sqlite
+        modified:   README.txt
+        new file:   Script2.js
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master|MERGING)
+$ git commit -m "commit5"
+[master 0f99a6b] commit5
+ Committer: Sudhir Takane <bhakti.sudhir-takane@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git merge js-assignments
+Already up to date.
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ ls
+HTMLPage1.html  Script2.js
+README.txt      StyleSheet1.css
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch -a
+  js-assignment
+  js-assignments
+* master
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch --delete js-assignments
+Deleted branch js-assignments (was 7639a81).
+
+bsudhirt@LIN80024365 MINGW64 ~/Assignments (master)
+$ git branch -a
+  js-assignment
+* master
+
+
